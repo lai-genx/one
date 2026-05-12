@@ -1,5 +1,5 @@
 def main():
-    message = "Hello from a basic Python file."
+    message = "hello world"
     print(message)
 
 
